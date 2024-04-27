@@ -1,0 +1,30 @@
+p {
+    color: blue;
+
+}
+
+h1 {
+    color: green;
+    
+}
+
+#latest {
+    color: aqua;
+    text-align: center;
+    height: 100px;
+    width: 150px;
+    padding-top: 20px;
+    padding-left: 40px;
+    border: double;
+}
+#s1{
+    display: inline;
+}
+
+.old {
+    color: brown;
+    text-align: center;
+}
+
+
+
