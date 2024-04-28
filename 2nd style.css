@@ -1,0 +1,45 @@
+.box {
+    background-color: aquamarine;
+    border-radius: 5px;
+    margin: 2px;
+    padding: 10px;
+    flex-grow: 1 0 100px; /*to change the container size according to device */
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: red;
+    height: 200px;
+    align-items: center;
+   flex-wrap: wrap;
+   gap: 10px;
+    
+}
+
+/* .box3{
+    background-color: blanchedalmond;
+    align-self: center;
+    flex: 3 1 auto;
+} */
+
+
+/* .square {
+    background-color: aqua;
+    border-radius: 5px;
+    margin: 2px;
+    padding: 10px;
+
+}
+
+.flex-con{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: black;
+    height: 200px;
+    align-items: center;
+   flex-wrap: wrap;
+   margin: 100px;
+} */
